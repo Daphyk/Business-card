@@ -12,7 +12,7 @@ export default function Main() {
                 Frontend Developer
             </h4>
             <span className="main--span--two main--content">
-                Website Link Channel
+                theayubs.com
             </span>
 
 
@@ -28,9 +28,9 @@ export default function Main() {
 
             <div className="main--about--interest">
                 <h3>About</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet labore optio beatae magnam. Sequi eius eligendi, quis repellendus nihil, libero ab nobis soluta odit tempore autem ut obcaecati maxime. Molestias!</p>
+                <p>I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.</p>
                 <h3>Interests</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, vero. Dignissimos ratione ipsam pariatur laudantium iusto sunt aliquam ea assumenda neque, facilis officiis cupiditate ipsum saepe, maxime debitis quas quidem!</p>
+                <p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
             </div>
 
         </div>
