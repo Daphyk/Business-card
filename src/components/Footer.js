@@ -4,13 +4,6 @@ import instaLogo from "../images/Instagram Icon.png"
 import githubLogo from "../images/GitHub Icon.png"
 import facebookLogo from "../images/Facebook Icon.png"
 
-/*
-const Footer = () => {
-  return (
-    <div>Footer</div>
-  )
-}
-*/
 export default function Footer () {
   return (
     <div className="footer--container">
